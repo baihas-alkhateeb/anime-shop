@@ -1,0 +1,4 @@
+1:"$Sreact.fragment"
+2:I[13055,["/anime-shop/_next/static/chunks/82f4fd50487c7ed2.js","/anime-shop/_next/static/chunks/1ef885d21e4d82b9.js"],"default"]
+3:I[91594,["/anime-shop/_next/static/chunks/82f4fd50487c7ed2.js","/anime-shop/_next/static/chunks/1ef885d21e4d82b9.js"],"default"]
+0:{"buildId":"JZk3aBu0jwMElDxiX_t_z","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}

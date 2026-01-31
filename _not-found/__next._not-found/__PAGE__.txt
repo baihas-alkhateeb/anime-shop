@@ -1,0 +1,9 @@
+1:"$Sreact.fragment"
+2:I[30037,["/anime-shop/_next/static/chunks/82f4fd50487c7ed2.js","/anime-shop/_next/static/chunks/1ef885d21e4d82b9.js"],"ClientPageRoot"]
+3:I[99462,["/anime-shop/_next/static/chunks/17539de4dac39d62.js","/anime-shop/_next/static/chunks/b7ddd2b3f5c12ca7.js","/anime-shop/_next/static/chunks/4c66d782227ef7cc.js","/anime-shop/_next/static/chunks/c74e8f507366892d.js"],"default"]
+6:I[47858,["/anime-shop/_next/static/chunks/82f4fd50487c7ed2.js","/anime-shop/_next/static/chunks/1ef885d21e4d82b9.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+0:{"buildId":"JZk3aBu0jwMElDxiX_t_z","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/anime-shop/_next/static/chunks/c74e8f507366892d.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
+4:{}
+5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
+8:null
