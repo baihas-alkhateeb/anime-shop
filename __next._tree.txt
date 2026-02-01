@@ -4,4 +4,4 @@
 :HL["/anime-shop/_next/static/media/638f182e7ded7477-s.p.5461cf5a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/anime-shop/_next/static/media/d622c970823c5a32-s.p.0b73bd18.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/anime-shop/_next/static/media/dc0c65e819e3bb6c-s.p.c8bc5246.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"buildId":"JZk3aBu0jwMElDxiX_t_z","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"D4jAyg7958bTU4Rxkn-4w","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
